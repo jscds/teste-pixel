@@ -26,3 +26,8 @@ EUP-demo/
 ├── js/mapdata.js, player.js, entities.js, ui.js, main.js
 └── assets/mapa-mansao.jpg   ← imagem real do mapa
 ```
+
+## Personagem Principal
+Animações de andar, correr e atacar integradas.
+
+![Spritesheet do Personagem](assets/character/character_spritesheet.png)
